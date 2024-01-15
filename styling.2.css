@@ -1,0 +1,166 @@
+.body
+{
+    background-color: rgba(1, 1, 45, 0.821);
+}
+.background
+{
+    background-image:url(https://static.vecteezy.com/system/resources/previews/000/742/601/large_2x/himalayas-mountain-landscape-photo.jpg);
+    height: 500px;
+    width: 100%;
+}
+.navigation
+{
+    height: 50px;
+}
+.center
+{
+    text-align: center;
+}
+.logo
+{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+.empty
+{
+    height: 50px;
+    width: 75%;
+    float: left;
+}
+.home
+{
+    border: 8px;
+    width: 70px;
+    height: 50px;
+    color: black;
+    float: right;
+}
+.about
+{
+    border: 8px;
+    width: 70px;
+    height: 50px;
+    color: black;
+    float: right;
+}
+.contact
+{
+    border: 8px;
+    width: 70px;
+    height: 50px;
+    color: black;
+    float: right;
+}
+
+.button1
+{
+width: 80px;
+height: 30px;
+background-color: aqua;
+border-radius: 8px;
+}
+.section2
+{
+    width: 100%;
+    height: 250px;
+}
+.facebook
+{
+    text-align: center;
+    color: white;
+    width: 25%;
+    float: left;
+}
+.instagram
+{
+    color: white;
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+.twitter
+{
+    color: white;
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+.linkedin
+{
+    color: white;
+    text-align: center;
+    width: 25%;
+    float: left;
+}
+.about2
+{
+    text-align: center;
+    height: 200px;
+}
+.buttons
+{
+text-align: center;
+}
+.we
+{
+    background-color: aqua;
+    height: 40px;
+    border-radius: 8px;
+}
+.third
+{
+    height: 200px;
+    width: 100%;
+}
+.empty1
+{
+    float: left;
+    width: 10%; 
+    height: 100%;    
+}
+.web
+{
+  text-align: center;
+  float: left;
+  width: 20%;
+}
+.empty2
+{
+    float: left;
+    width: 10%;  
+    height: 100%;
+}
+.and
+{
+  text-align: center;
+  float: left;
+  width: 20%;
+}
+.empty3
+{
+    float: left;
+    width: 10%; 
+    height: 100%; 
+}
+.ui
+{
+  text-align: center;
+  float: left;
+  width: 20%;
+}
+.empty4
+{
+    float: left;
+    width: 10%;
+    height: 100%;
+}
+.final
+{
+    text-align: center;
+    background-color: black;
+}
+.finah
+{
+ color: white;
+}
